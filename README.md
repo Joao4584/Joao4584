@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://github.com/Joao4584/Joao4584/blob/main/30.jpg?raw=true">
 <!--
 **Joao4584/Joao4584** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
