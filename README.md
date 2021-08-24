@@ -9,8 +9,8 @@
 <h1>GitHub Stats 📈</h1>
 <div>
   <a href="https://github.com/Joao4584">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Joao4584&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao4584&layout=compact&langs_count=7&theme=shades-of-purple"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Joao4584&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao4584&layout=compact&langs_count=7&theme=shades-of-purple"/>
 </div>
 
 
