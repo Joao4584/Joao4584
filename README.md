@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 <h1>GitHub Stats 📈</h1>
-<div>
+<div align="center">
   <a href="https://github.com/Joao4584">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Joao4584&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao4584&layout=compact&langs_count=7&theme=shades-of-purple"/>
