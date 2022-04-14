@@ -20,10 +20,6 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Joao4584&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao4584&layout=compact&langs_count=7&theme=shades-of-purple"/>
 </div>
-  <hr></hr>
-  
-  ![Snake animation](https://github.com/Joao4584/Joao4584/blob/output/github-contribution-grid-snake.svg)
-
 
 <!--
 **Joao4584/Joao4584** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
