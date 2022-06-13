@@ -4,7 +4,7 @@
 <p>🧠 Sou um desenvolvedor web a procura de conhecimento</p>
 <p>⚡ Apaixonado pelo desenvolvimento web, sistemas, e-commerce</p>
 
-<h1>Technologies & Tools <img src="https://raw.githubusercontent.com/Joao4584/Joao4584/main/fire-77.gif" width="15px"></h1>
+<h1>Technologies & Tools <img src="https://raw.githubusercontent.com/Joao4584/Joao4584/main/fire-77.gif" width="10px" height="10px"></h1>
 <div align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
