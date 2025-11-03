@@ -85,7 +85,7 @@
 
 ---
 
-### 🐍 Minhas Contribuições
-<p align="center">
-  <img src="https://github.com/Joao4584/Joao4584/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<div align="center">
+  <img src="https://github.com/Joao4584/Joao4584/blob/output/github-snake.svg" alt="Snake animation" />
+</div>
+
