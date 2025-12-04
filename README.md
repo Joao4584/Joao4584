@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/Joao4584/Joao4584/main/readme_heade.jpg" width="100%" />
 
 <h1 align="center">👋 Hello, how are you?</h1>
 
