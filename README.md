@@ -84,7 +84,7 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/Joao4584/Joao4584/blob/output/github-snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
